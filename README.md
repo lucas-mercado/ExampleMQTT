@@ -12,7 +12,7 @@ _Instalacion del Broker Mosquitto y mosquitto_clients_
 ### Ubuntu
 Mosquitto esta disponible en el repositorio de ubuntu entonces puede instalar como cualquier otro paquete. Si tiene una versión anterior de Ubuntu o desea una versión más reciente de mosquitto, agrege el mosquitto-dev PPA para su lista de repositorio -ver el link https://launchpad.net/~mosquitto-dev/+archive/ubuntu/mosquitto-ppa para mas detalles. Mosquitto entonces puede ser instalado desde su package manager.
 
-_agregamos el package de mosquitto a SO Ubuntu_
+_agregamos el package de mosquitto al repositorio de Ubuntu_
 
 ```
   # sudo apt-add-repository ppa:mosquitto-dev/mosquitto-ppa
